@@ -108,7 +108,7 @@ int main(void) {
     //val, index, head
     addElement(0, 3, head);
 
-    //show changed array
+    //show changed list
     printList(head);
 
     return 0;
