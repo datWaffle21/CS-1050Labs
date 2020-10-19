@@ -108,8 +108,7 @@ int main(void) {
     //val, index, head
     addElement(0, 3, head);
 
-    printf("BRUH2: %d\n", head->value);
-
+    //show changed array
     printList(head);
 
     return 0;
